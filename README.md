@@ -67,7 +67,7 @@ Microsoft-Fabric-Medallion-Architecture
 ├── Data-Warehouse
 │   └── warehouse-schema.sql
 │
-├── PowerBI
+├── Power BI
 │   └── dashboard.pbix
 │
 └── README.md
@@ -191,11 +191,17 @@ Power BI dashboards provide business insights such as:
 ## Microsoft Fabric Services Used
 **Service	                                Purpose**
 Data Factory	                        Data ingestion pipelines
+
 OneLake	                                Centralized storage
+
 Lakehouse	                        Data engineering and transformation
+
 Spark Notebooks	                        Data processing
+
 Data Warehouse	                        Structured analytics storage
+
 Power BI	                        Data visualization
+
 Semantic Model	                        Business data modeling
 ------------------------------------------------------------------------
 
